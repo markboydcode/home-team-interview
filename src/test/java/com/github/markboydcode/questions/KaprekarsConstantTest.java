@@ -63,7 +63,7 @@ public class KaprekarsConstantTest {
   }
 
   /**
-   * Sequence from the site above is as follows for 1004 and should return 3:
+   * Sequence from the site above is as follows for 1004 and should return 7:
    * <pre>
    *  4100 - 14 = 4086
    *  8640 - 468 = 8172
